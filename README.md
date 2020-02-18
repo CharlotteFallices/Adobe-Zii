@@ -60,4 +60,5 @@
 
 ## License
 
-暂缺
+Artistic License 2.0.
+The Artistic license requires that modified versions of the software do not prevent users from running the standard version.
