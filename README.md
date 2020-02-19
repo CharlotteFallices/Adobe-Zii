@@ -1,6 +1,6 @@
 # Adobe Zii Patcher
 
-[Adobe Zii](https://upload.adobezii.com/download/0/sh/5766388ef04e6ec3b7505e7ca74e1de0)的意思是adobe patcher or activator,是由俄罗斯团队TNT Team开发的一款测试工具,其目的在于对Adobe产品的的测试,当然,这不意味着你不再需要购买Adobe产品--因为你需要先在[Adobe](https://www.adobe.com/cn/)购买这些软件之后才能下载它们.
+[Adobe Zii](https://upload.adobezii.com/download/0/sh/5766388ef04e6ec3b7505e7ca74e1de0)的意思是adobe patcher or activator,是由俄罗斯团队TNT Team开发的一款测试工具,其目的在于对Adobe产品的安全性测试,当然,这不意味着你不再需要购买Adobe产品--因为你需要先在[Adobe](https://www.adobe.com/cn/)购买这些软件之后才能下载它们.
 
 ## 关于Gatekeeper的注意事项
 
